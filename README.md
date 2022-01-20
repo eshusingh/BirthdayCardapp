@@ -6,7 +6,7 @@
 
 Time spent: **0.5** hours spent in total
 
-![](<iframe src='//gifs.com/embed/card-83WZ5j' frameborder='0' scrolling='no' width='640px' height='1236px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>)
+
 
 ## Video Walkthrough
 
