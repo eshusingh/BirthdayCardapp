@@ -13,7 +13,7 @@ Time spent: **0.5** hours spent in total
 Here's a walkthrough of implemented user stories:
 
 
-![video](https://gifs.com/gif/card-83WZ5j)
+![](https://j.gifs.com/83WZ5j.gif)
 
 
 
