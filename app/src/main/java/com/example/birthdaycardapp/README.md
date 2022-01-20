@@ -13,7 +13,7 @@ Time spent: **0.5** hours spent in total
 Here's a walkthrough of implemented user stories:
 
 
-![video](<iframe src='//gifs.com/embed/birthday-card-oZ8z9K' frameborder='0' scrolling='no' width='640px' height='1236px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>)
+![video](https://gifs.com/gif/card-83WZ5j)
 
 
 
